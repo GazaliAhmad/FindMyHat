@@ -14,3 +14,5 @@ This was my JavaScript assessment. The requirements were to:
 * Check if character goes into hole -> game ends
 * Check if character gets the hat -> win
 
+![ScreenShot](/image/TerminalScreenShot.png)
+
